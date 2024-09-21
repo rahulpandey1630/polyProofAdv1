@@ -15,7 +15,7 @@ contract jet is ERC721A {
         "https://gateway.pinata.cloud/ipfs/QmcX3QoHU2kSJwEacBDqXpLJ3XhEGf3cawpffjarGwMqaQ/";
 
     // URL for the prompt description
-    string public prompt = "A jet wearing blue jersey cheering the crowd";
+    string public prompt = "A jet flying in sky";
 
     constructor() ERC721A("jet", "JT") {
         owner = msg.sender;
