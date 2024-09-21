@@ -32,7 +32,7 @@ Run the following commands to approve and deposit the minted NFTs from Ethereum 
 
 ```npx hardhat run scripts/approveDeposit.js --network goerli```
 Author
-Geet Kiran
+Rahul
 
 ### License
 This project is licensed under the MIT License. You can make a copy of the project to use for your own purposes.
